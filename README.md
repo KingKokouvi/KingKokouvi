@@ -25,7 +25,7 @@ Among my repositories, you'll discover a blend of personal projects, experimenta
 - 🌱 I’m currently learning Reactjs; Nextjs; Lean Management; Supply Chain Management; Data science tools 
 - 👯 I’m looking to collaborate on Front-end projects, Computer Vision Projects, Supply Chain optimization problems
 - 🤔 I’m looking for help with the Open CV perspective transformer function (explanation)
-- 💬 Ask me about ...
+- 💬 Ask me about Logistics and transport, 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/danssou-kokouvi-achille-bright-473446189/)
 
 Stay tuned as I'll be updating my repositories soon to showcase my latest personal projects. Feel free to dive into my work, offer feedback, or even collaborate on new ideas. Let's connect and embark on this journey together! 🌟
